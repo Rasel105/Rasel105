@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Azadul Islam Rasel</h1>
 <h3 align="center">A passionate Web Developer from Bangladesh</h3>
 
+![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQGAbq4wGm36pA/profile-displaybackgroundimage-shrink_200_800/0/1653877367299?e=1659571200&v=beta&t=4WfZmy_7YEPmiNiGgmbDhAuImyB0GgkkP8Y9sVjryAM)
+
 - 🔭 I’m currently working on [Web Development](https://github.com/Rasel105/The-Gigawatt-Client)
 
 - 🌱 I’m currently learning **Next.js**
