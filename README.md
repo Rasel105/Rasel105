@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **azad.is.rasel@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19QeOecjpDwHMdwrzBosWT7_SdzfEFVbo/view?usp=sharing](https://drive.google.com/file/d/19QeOecjpDwHMdwrzBosWT7_SdzfEFVbo/view?usp=sharing)
+- 📄 <a href="https://drive.google.com/file/d/19QeOecjpDwHMdwrzBosWT7_SdzfEFVbo/view?usp=sharing" target="blank">Resume of Rasel</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
