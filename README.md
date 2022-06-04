@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Next.js**
 
-- 💬 Ask me about **JavaScript, React, Node, MongoDB**
+- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **azad.is.rasel@gmail.com**
 
