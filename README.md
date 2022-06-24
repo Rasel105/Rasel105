@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [MERN Stack Development](https://github.com/Rasel105/The-Gigawatt-Client)
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently learning **GraphQL**
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 
