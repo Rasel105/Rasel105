@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Azadul Islam Rasel</h1>
-<h3 align="center">A passionate Front End Developer from Bangladesh</h3>
+<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-![Web Developer](https://media-exp1.licdn.com/dms/image/C4D16AQG28uNxkUsq2A/profile-displaybackgroundimage-shrink_200_800/0/1655876264373?e=1661385600&v=beta&t=OKxH2rO2XZ039OQ91JwElFxI_lCJMRfZl0Z9_TQoJHE)
+![Web Developer](https://media-exp1.licdn.com/dms/image/C5616AQEz16h0TJj7YA/profile-displaybackgroundimage-shrink_200_800/0/1658106964121?e=1663804800&v=beta&t=mm0Etmq-0Y3vAcCVXH_6G7mVZVb6zAq12Se4Ha6gg38)
 
 - 🔭 I’m currently working on [MERN Stack Development](https://github.com/Rasel105/The-Gigawatt-Client)
 
-- 🌱 I’m currently learning **GraphQL**
+- 🌱 I’m currently learning **PostgreSQL**
 
 - 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
 
