@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Azadul Islam Rasel</h1>
 <h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
 
-https://media.licdn.com/dms/image/C5616AQEz16h0TJj7YA/profile-displaybackgroundimage-shrink_350_1400/0/1658106964121?e=1691020800&v=beta&t=I716e3yn8KOLqiMcQ7-VVglwWrgX4pLC1uOZcbdVUaU
+<img src="https://media.licdn.com/dms/image/C5616AQEz16h0TJj7YA/profile-displaybackgroundimage-shrink_350_1400/0/1658106964121?e=1691020800&v=beta&t=I716e3yn8KOLqiMcQ7-VVglwWrgX4pLC1uOZcbdVUaU" alt="Profile-Image">
 
 - 🔭 I’m currently working on [MERN Stack Development](https://github.com/Rasel105/The-Gigawatt-Client)
 
