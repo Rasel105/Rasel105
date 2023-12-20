@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [MERN Stack Development](https://github.com/Rasel105/The-Gigawatt-Client)
 
-- 🌱 I’m currently learning **PostgreSQL**
+- 🌱 I’m currently learning **Spanish**
 
-- 💬 Ask me about **JavaScript, React.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **azad.is.rasel@gmail.com**
+- 📫 How to reach me **azsrasel.dev@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
