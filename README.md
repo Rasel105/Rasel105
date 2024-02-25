@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **rasel@digitosys.com**
+- 📫 How to reach me **dev@azadulislam.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
