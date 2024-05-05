@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Spanish**
 
-- 💬 Ask me about **JavaScript, React.js, Next.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **JavaScript, React.js, React Native, Next.js, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **dev@azadulislam.com**
 
