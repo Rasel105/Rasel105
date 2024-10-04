@@ -1,9 +1,21 @@
-<h1 align="center">Hello 👋, I'm Azadul Islam Rasel</h1>
-<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
-
 <img src="https://media.licdn.com/dms/image/v2/D5616AQG7-zXrtsufMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728030444320?e=1733356800&v=beta&t=T_kxSjrUypzowZm5yrFO0mOJN_wdDGwURS_Gngl07J4" alt="Profile-Image">
 
-- 🔭 I’m currently working on [Full Stack Development](https://github.com/Rasel105)
+<h1 align="center">Hello 👋, I'm Azadul Islam Rasel, a passionate Software Engineer.</h1>
+
+An experienced Software Engineer specializing in HTML/CSS, JavaScript, TypeScript, React, React Native, Nextjs, Tailwind CSS, Bootstrap, Nodejs, Express.js, MongoDB, and MySQL. I create visually stunning and highly functional web applications, from front-end interfaces to robust back-end solutions. With a proven track record of meeting deadlines and delivering high-quality work, I'm committed to providing outstanding results for your web development projects and mobile apps. Let's collaborate and bring your ideas to life!
+
+**Why Me:**
+
+I specialize in crafting bespoke solutions perfectly aligned with your requirements. With a profound grasp of various technologies and web development platforms, I approach every project with versatility and precision. I want you to know that I focus on transparent communication, punctuality, and surpassing your envisioned outcomes. Together, let's transform your concepts into reality!
+
+**Availability:**
+
+Feel free to reach out to discuss your project and its specific needs. I'm flexible and available for full-time and part-time engagements, seamlessly adapting to your project requirements. Let's discuss how we can work together to achieve your goals.
+
+**Contact:**
+
+Email: dev@azadulislam.com,
+Website: https://azadulislam.com
 
 - 🌱 I’m currently learning **Spanish**
 
