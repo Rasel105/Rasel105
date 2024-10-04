@@ -36,10 +36,8 @@
 
 # What companies have I worked for?
 - [SELISE Digital Platforms](https://selisegroup.com/)
-- [3S-Software, Service & Solution](https://3ssoftltd.com)
-- [GoBD](https://futurestartup.com/2015/05/20/this-startup-aims-to-solve-dhakas-traffic-problem-with-an-app-but-there-is-more-to-it/)
-- [Computer Ease Ltd](https://www.celimited.com/)
+- [Digitosys IT](https://digitosys.com/)
+- [Aimbrill Techinfo](https://www.aimbrill.com/)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rasel105&show_icons=true)  
-
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=Rasel105)  
