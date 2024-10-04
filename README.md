@@ -1,5 +1,5 @@
 <h1 align="center">Hello 👋, I'm Azadul Islam Rasel</h1>
-<h3 align="center">A passionate Full Stack Developer from Bangladesh</h3>
+<h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
 <img src="https://media.licdn.com/dms/image/D5616AQHAVb6-1BB_6g/profile-displaybackgroundimage-shrink_350_1400/0/1690626707934?e=1708560000&v=beta&t=ULqCkO6xBCTU32pi8BxcWpv9wNCejAtcr0dou17MMQ0" alt="Profile-Image">
 
