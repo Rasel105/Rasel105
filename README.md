@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm Azadul Islam Rasel</h1>
 <h3 align="center">A passionate Software Engineer from Bangladesh</h3>
 
-<img src="https://media.licdn.com/dms/image/D5616AQHAVb6-1BB_6g/profile-displaybackgroundimage-shrink_350_1400/0/1690626707934?e=1708560000&v=beta&t=ULqCkO6xBCTU32pi8BxcWpv9wNCejAtcr0dou17MMQ0" alt="Profile-Image">
+<img src="https://media.licdn.com/dms/image/v2/D5616AQG7-zXrtsufMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728030444320?e=1733356800&v=beta&t=T_kxSjrUypzowZm5yrFO0mOJN_wdDGwURS_Gngl07J4" alt="Profile-Image">
 
 - 🔭 I’m currently working on [Full Stack Development](https://github.com/Rasel105)
 
