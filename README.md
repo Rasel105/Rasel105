@@ -1,5 +1,3 @@
-<img src="https://media.licdn.com/dms/image/v2/D5616AQG7-zXrtsufMQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728030444320?e=1733356800&v=beta&t=T_kxSjrUypzowZm5yrFO0mOJN_wdDGwURS_Gngl07J4" alt="Profile-Image">
-
 <h1 align="center">Hello 👋, I'm Azadul Islam Rasel, a passionate Software Engineer.</h1>
 
 An experienced Software Engineer specializing in HTML/CSS, JavaScript, TypeScript, React, React Native, Nextjs, Tailwind CSS, Bootstrap, Nodejs, Express.js, MongoDB, and MySQL. I create visually stunning and highly functional web applications, from front-end interfaces to robust back-end solutions. With a proven track record of meeting deadlines and delivering high-quality work, I'm committed to providing outstanding results for your web development projects and mobile apps. Let's collaborate and bring your ideas to life!
