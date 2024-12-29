@@ -21,7 +21,7 @@ Website: https://azadulislam.com
 
 - 💬 Ask me about **JavaScript, React.js, React Native, Next.js, Node.js, Express.js, MongoDB**
 
-- 📫 How to reach me **dev@azadulislam.com**
+- 📫 How to reach me **azadulislam147@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
