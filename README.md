@@ -1,6 +1,6 @@
 <h1 align="center">Hello 👋, I'm Azadul Islam Rasel, a passionate Software Engineer.</h1>
 
-An experienced Software Engineer specializing in HTML/CSS, JavaScript, TypeScript, React, React Native, Nextjs, Tailwind CSS, Bootstrap, Nodejs, Express.js, MongoDB, and MySQL. I create visually stunning and highly functional web applications, from front-end interfaces to robust back-end solutions. With a proven track record of meeting deadlines and delivering high-quality work, I'm committed to providing outstanding results for your web development projects and mobile apps. Let's collaborate and bring your ideas to life!
+An experienced Software Engineer specializing in HTML/CSS, JavaScript, TypeScript, React, Angular, React Native, Nextjs, Tailwind CSS, Bootstrap, Nodejs, Express.js, MongoDB, and MySQL. I create visually stunning and highly functional web applications, from front-end interfaces to robust back-end solutions. With a proven track record of meeting deadlines and delivering high-quality work, I'm committed to providing outstanding results for your web development projects and mobile apps. Let's collaborate and bring your ideas to life!
 
 **Why Me:**
 
@@ -12,12 +12,12 @@ Feel free to reach out to discuss your project and its specific needs. I'm flexi
 
 **Contact:**
 
-Email: dev@azadulislam.com,
-Website: https://azadulislam.com
+Email: azadulislam147@gmail.com,
+Website: https://azadul-islam-rasel.vercel.app
 
-- 🌱 I’m currently learning **Spanish**
+- 🌱 I’m currently learning **Angular** and **Spanish**
 
-- 💬 Ask me about **JavaScript, React.js, React Native, Next.js, Node.js, Express.js, MongoDB**
+- 💬 Ask me about **JavaScript, TypeScript, Angular, React.js, React Native, Next.js, Node.js, Express.js, MongoDB**
 
 - 📫 How to reach me **azadulislam147@gmail.com**
 
