@@ -45,6 +45,7 @@ Website: https://azadul-islam-rasel.vercel.app
 ![](https://github-profile-trophy.vercel.app/?username=Rasel105&count_private=true&show_icons=true&theme=swift&no-frame=false&no-bg=false)
 
 # What companies have I worked for?
+- [NEXT Ventures](https://nextventures.io/)
 - [SELISE Digital Platforms](https://selisegroup.com/)
 - [Digitosys IT](https://digitosys.com/)
 - [Aimbrill Techinfo](https://www.aimbrill.com/)
